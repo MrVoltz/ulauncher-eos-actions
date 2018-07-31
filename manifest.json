@@ -14,7 +14,7 @@
       "type": "keyword",
       "name": "Elementary Actions",
       "description": "Perform different actions on Elementary OS.",
-      "default_value": "eos"
+      "default_value": "os"
     }
   ]
 }
